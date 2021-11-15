@@ -8,7 +8,7 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23420CCC&title_bg=%23DE1515&icon=yamahamotorcorporation.svg&icon_color=%23F8F576&title=hits&edge_flat=false)](https://github.com/rio1004666)
   <br/><br/>
   
-  [JSP 팜스토리 웹 프로젝트 바로가기](http://15.165.76.158:8080/Farmstory2)
+  🌱 [JSP 팜스토리 웹 프로젝트 바로가기](http://15.165.76.158:8080/Farmstory2) 🌱
   
   
   **⚡ Tech Stack ⚡**<br/><br/>
