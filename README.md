@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **rio1004666/rio1004666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 강병화
@@ -205,4 +205,3 @@ MIT
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
