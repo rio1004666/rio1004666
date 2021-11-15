@@ -1,5 +1,5 @@
 
-![rio1004666's GitHub stats](https://github-readme-stats.vercel.app/api?username=rio1004666&show_icons=true&theme=blue-green&show_icons=true)
+![rio1004666's GitHub stats](https://github-readme-stats.vercel.app/api?username=rio1004666&show_icons=true&theme=buefy&show_icons=true)
 
 
 <!--
