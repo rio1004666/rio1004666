@@ -1,6 +1,6 @@
 
 <div align="center">
-  # 😄Hi, I'm ByungHwa Kang
+  😄 # Hi, I'm ByungHwa Kang
   
   ![rio1004666's GitHub stats](https://github-readme-stats.vercel.app/api?username=rio1004666&show_icons=true&theme=buefy&show_icons=true)
 
